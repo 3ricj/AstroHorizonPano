@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroHorizonPano", "AstroHorizonPano.csproj", "{C60EE7B0-6A3A-40F3-9BED-78A9E63A2597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60EE7B0-6A3A-40F3-9BED-78A9E63A2597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60EE7B0-6A3A-40F3-9BED-78A9E63A2597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60EE7B0-6A3A-40F3-9BED-78A9E63A2597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60EE7B0-6A3A-40F3-9BED-78A9E63A2597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E8CABD-B93C-431A-B946-A0FA3C41CADF}
+	EndGlobalSection
+EndGlobal
